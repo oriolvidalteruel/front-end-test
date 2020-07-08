@@ -1,2 +1,2 @@
-# front_end_course
-Coursera's front end course
+# front-end-test
+Coursera's frontend course
